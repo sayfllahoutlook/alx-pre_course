@@ -1,1 +1,1 @@
-this is alx pre course readme
+alx is a good platform for software enginering
